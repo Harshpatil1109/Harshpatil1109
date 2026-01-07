@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Harshvardhan Patil! 👋<br>Aspiring Cloud & DevOps Engineer ☁️<br><br>I specialize in building scalable cloud infrastructure and automating delivery pipelines. I am passionate about cloud-native technologies, infrastructure-as-code, and real-time data streaming.<br><br>🛠️ Technical Toolkit<br>Cloud Platforms: AWS, Microsoft Azure<br><br>Infrastructure & Automation: Terraform, Docker, CI/CD Pipelines<br><br>Core Skills: Cloud Architecture, Networking, Python, Linux Administration 🚀
+Hi, I’m Harshvardhan Patil! 👋<br>Aspiring Cloud & DevOps Engineer ☁️<br><br>I specialize in building scalable cloud infrastructure and automating delivery pipelines. I am passionate about cloud-native technologies, infrastructure-as-code, and real-time data streaming.<br><br>🛠️ Technical Toolkit<br>Cloud Platforms: AWS, Microsoft Azure<br><br>Infrastructure & Automation: Terraform, Docker, CI/CD Pipelines<br><br>Core Skills: Cloud Architecture, Networking, Python, Linux Administration  🚀
 
 
 ## 🌐 Socials:
