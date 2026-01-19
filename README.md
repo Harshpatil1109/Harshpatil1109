@@ -1,4 +1,4 @@
-# About Me:
+# 🚀 About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=0994C0&width=435&height=52&lines=Hey+I+m+Harshvardhan+Patil;Aspiring+Cloud+%26+DevOps+Engineer)](https://git.io/typing-svg)<br><br>I specialize in building scalable cloud infrastructure and automating delivery pipelines. I am passionate about cloud-native technologies, infrastructure-as-code, and real-time data streaming.<br><br>🛠️ Technical Toolkit<br>Cloud Platforms: AWS, Microsoft Azure<br><br>Infrastructure & Automation: Terraform, Docker, CI/CD Pipelines<br><br>Core Skills: Cloud Architecture, Networking, Python, Linux Administration  🚀
 
 
