@@ -6,8 +6,6 @@
 
 <br><br>🛠️ Technical Toolkit<br>Cloud Platforms: AWS, Microsoft Azure<br><br>Infrastructure & Automation: Terraform, Docker, CI/CD Pipelines<br><br>Core Skills: Cloud Architecture, Networking, Python, Linux Administration  🚀
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhyNmRvYWtudW4yYzU3NWFyNnRtdXBzcTlobDM4aTZ2ZHhmaTVmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awanmbandi&label=Profile%20views&color=0e75b6&style=flat" alt="awanmbandi" /> </p>
 
 ## 🌐 Socials:
