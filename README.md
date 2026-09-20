@@ -10,6 +10,8 @@
 <br>
 Code → Build → Test → Deploy → Monitor → Improve.
 
+</div>
+
 <br><br>🛠️ Technical Toolkit<br>Cloud Platforms: AWS, Microsoft Azure<br><br>Infrastructure & Automation: Terraform, Docker, CI/CD Pipelines<br><br>Core Skills: Cloud Architecture, Networking, Python, Linux Administration  🚀
 
 
