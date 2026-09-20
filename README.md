@@ -6,6 +6,9 @@
 
 <br><br>🛠️ Technical Toolkit<br>Cloud Platforms: AWS, Microsoft Azure<br><br>Infrastructure & Automation: Terraform, Docker, CI/CD Pipelines<br><br>Core Skills: Cloud Architecture, Networking, Python, Linux Administration  🚀
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhyNmRvYWtudW4yYzU3NWFyNnRtdXBzcTlobDM4aTZ2ZHhmaTVmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=awanmbandi&label=Profile%20views&color=0e75b6&style=flat" alt="awanmbandi" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshpatil.0911) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/harshvardhan-patil-797b622bb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshvardhanpatil915@gmail.com) 
