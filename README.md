@@ -2,8 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=0994C0&width=435&height=52&lines=Hey+I+m+Harshvardhan+Patil;Aspiring+Cloud+%26+DevOps+Engineer)](https://git.io/typing-svg)<br>
 
 <br>
-<h1 align="center">☁️ I’m a Cloud & DevOps Engineer in the making, passionate about automating infrastructure, building CI/CD pipelines, and designing scalable cloud-native systems. I work with AWS, Docker, Kubernetes, Terraform, Linux, and GitHub Actions to turn ideas into reliable and automated solutions. I’m also exploring real-time data systems and modern cloud architectures, continuously learning through hands-on projects and experimentation.</h1>
-<h2 align="center">My mission is to build systems that are scalable, automated, and production-ready</h2>
+☁️ I’m a Cloud & DevOps Engineer in the making, passionate about automating infrastructure, building CI/CD pipelines, and designing scalable cloud-native systems. I work with AWS, Docker, Kubernetes, Terraform, Linux, and GitHub Actions to turn ideas into reliable and automated solutions. I’m also exploring real-time data systems and modern cloud architectures, continuously learning through hands-on projects and experimentation.
+<h2 align="center"> 🚀 My mission is to build systems that are scalable, automated, and production-ready</h2>
 <h3 align="center">Code → Build → Test → Deploy → Monitor → Improve</h3>
 
 <br><br>🛠️ Technical Toolkit<br>Cloud Platforms: AWS, Microsoft Azure<br><br>Infrastructure & Automation: Terraform, Docker, CI/CD Pipelines<br><br>Core Skills: Cloud Architecture, Networking, Python, Linux Administration  🚀
